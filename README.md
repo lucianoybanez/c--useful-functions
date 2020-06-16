@@ -1,2 +1,2 @@
-# c--useful-functions
-This repository contains useful functions for C#
+# C# useful functions
+This repository contains useful functions for C# language
